@@ -1,4 +1,4 @@
-# Flexiart POS System
+# Java Ant POS System
 
 Flexiart POS System is a Java-based Point of Sale (POS) software designed to streamline sales, manage inventory, and generate reports for businesses. This README provides an overview of the project's key details and functionalities.
 
